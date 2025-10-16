@@ -41,3 +41,6 @@ Data Modeling & Relationships – to connect multiple tables and make the report
 
 -Reviews were heavily concentrated around a few top products like SanDisk drives and JETech accessories, showing customer preference in tech gadgets.
 
+Preview :
+![Dashboard Preview](https://github.com/purplesunflower0/Sales-Dashboard/blob/main/Amazon-Sales_powerBI.gif)
+
