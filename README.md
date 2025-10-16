@@ -31,8 +31,6 @@ Data Modeling & Relationships – to connect multiple tables and make the report
 
  ## Key Insights
 
--Men’s Shoes turned out to be the top category, contributing around 43% of total sales.
-
 -Cameras and Men’s Clothes were strong performers too, making up around 22% and 16% of sales respectively.
 
 -Sales were a bit low in the starting months (Jan–Feb) but picked up sharply from March onward, with peaks around September and December (probably festival/holiday effect).
